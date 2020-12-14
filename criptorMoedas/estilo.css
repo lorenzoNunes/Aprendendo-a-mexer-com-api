@@ -1,0 +1,24 @@
+nav {
+    font-style: oblique; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    text-align: center;
+}
+
+h5 {
+    color: blue;
+}
+
+span {
+    font-style: italic;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.breadcrumb-item a {
+    text-align: center;
+}
